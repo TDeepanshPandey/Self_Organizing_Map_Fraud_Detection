@@ -17,3 +17,4 @@ My Certificate URL is *https://www.udemy.com/certificate/UC-3NCHVRX9*
 
 **SOM Visualization**
 ![alt_text](https://github.com/TDeepanshPandey/Self_Organizing_Map_Fraud_Detection/blob/master/SOM.png)
+.
